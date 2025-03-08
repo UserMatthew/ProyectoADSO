@@ -1,0 +1,31 @@
+
+.bg {
+    background-image: url(../templates/AdminLTE-3.2.0/dist/img/Inventario.jpg);
+    background-position: center center; 
+}
+
+.custom-txt-size {
+    font-size: 12px;
+}
+
+.bg-cont{
+    background-color: #FFCC4A;
+    background: linear-gradient(to bottom, #FFCC4A, #FFF1C6);
+}
+
+.sidebar {
+    background-color: #461702;
+    height: 100vh;
+}
+
+.icon-large {
+    font-size: 50px;
+}
+
+.navegador:hover {
+    color: red;
+  }
+
+.btn-secondary {
+    background-color: #461702;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/java/controllers/Controlador.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>36</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/dao/UsuarioDAO.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/web/view/productos/update.jsp</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/src/java/models/Producto.java</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/web/view/productos/create.jsp</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/src/java/controllers/SrvtProducto.java</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/web/view/default/header.jsp</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/src/java/controllers/SrvtUsuario.java</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/web/view/productos/index.jsp</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/web/index.jsp</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/src/java/dao/ProductosDAO.java</file>
+            <file>file:/C:/Users/NauCreep/Desktop/Importante/Programacion/adso/src/java/dao/UsuarioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
